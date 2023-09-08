@@ -1,0 +1,37 @@
+{
+  "id": "3735794",
+  "name": "icn",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6337465",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "ec80",
+      "unicode_decimal": 60544
+    },
+    {
+      "icon_id": "32121650",
+      "name": "youxi",
+      "font_class": "a-youxi_huaban1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "32121660",
+      "name": "fenxiang",
+      "font_class": "a-fenxiang-1_huaban1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "32436790",
+      "name": "ancient-gate-fill",
+      "font_class": "ancient-gate-fill",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
